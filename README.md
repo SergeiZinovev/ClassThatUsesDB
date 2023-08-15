@@ -1,4 +1,4 @@
-# ClassThatUsesDB
+# TestDBConnection
 
 Tests with an Moc object simulating a database connection.
 
